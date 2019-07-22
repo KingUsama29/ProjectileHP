@@ -8,6 +8,9 @@
  3. Snowballs
  4. Fishing Rod
  
+ * **Coming Soon**
+ - [ ] Configurable Messages
+ 
  <h1 align="center">Extra</h1>
 <p align="center">This Is My First Plugin, Sorry For The Mess </p>
  <p align="center">Tester: @LilPumpičkaVTanku#7840 </p>
