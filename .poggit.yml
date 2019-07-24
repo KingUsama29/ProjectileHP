@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/LichKing112/ProjectileHP
+branches:
+- master
+projects:
+  ProjectileHP:
+    path: ""
+...
