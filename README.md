@@ -15,4 +15,4 @@
  
  Version | Phar Download
 ------------ | -------------
-1.0.0 | [Soon..](https://www.google.com/)
+1.0.0 | [Download](https://poggit.pmmp.io/r/63133/ProjectileHP_dev-1.phar)
