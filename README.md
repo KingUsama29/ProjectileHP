@@ -16,7 +16,3 @@
  Version | Phar Download
 ------------ | -------------
 1.0.0 | [Soon..](https://www.google.com/)
-
- * **Extra**
-  - Know-Bug
-     - Sometimes Display Incorrect Health Points
