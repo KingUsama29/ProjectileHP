@@ -8,6 +8,8 @@
  3. Snowballs
  4. Fishing Rod
  
+ ![](https://media.discordapp.net/attachments/592939802014384141/603582975736807457/image0.png?width=376&height=473)
+ 
  * **Coming Soon**
  - [ ] Configurable Messages
  
@@ -15,7 +17,6 @@
 ------------ | -------------
 1.0.0 | [Soon..](https://www.google.com/)
 
- <h1 align="center">Extra</h1>
-<p align="center">Logo: @UnknownGaming34#2030  </p>
- <p align="center">Tester: @LilPumpičkaVTanku#7840 </p>
- <p align="center">Server: flamedpvp.nbb.one 25685 </p>
+ * **Extra**
+  - Know-Bug
+     - Sometimes Display Incorrect Health Points
