@@ -11,6 +11,10 @@
  * **Coming Soon**
  - [ ] Configurable Messages
  
+ Version | Phar Download
+------------ | -------------
+1.0.0 | [Soon..](https://www.google.com/)
+
  <h1 align="center">Extra</h1>
 <p align="center">Logo: @UnknownGaming34#2030  </p>
  <p align="center">Tester: @LilPumpičkaVTanku#7840 </p>
