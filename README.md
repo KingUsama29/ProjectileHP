@@ -9,11 +9,9 @@
  4. Fishing Rod
  
  ![](https://media.discordapp.net/attachments/592939802014384141/603582975736807457/image0.png?width=376&height=473)
- 
- * **Coming Soon**
- - [ ] Configurable Messages
- 
+  
  Version | Phar Download
 ------------ | -------------
 1.0.0 | [Download](https://poggit.pmmp.io/r/63133/ProjectileHP_dev-1.phar)
-1.5.0 | [Soon](https://www.google.com/)
+
+Note: Repository/Plugin discontinued. 
