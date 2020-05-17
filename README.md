@@ -1,9 +1,6 @@
 <!--- TITLE --->
 <h1 align="left">ProjectileHitPoint</h1>
 
-<!--- SUBTITLE --->
-<p align="left">Displays Player's Health When Hit By A Projectile</p>
-
 <!--- PROJECTILE LIST --->
 * **Supported Projectiles**
  1. Arrows
