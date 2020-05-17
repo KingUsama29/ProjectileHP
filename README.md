@@ -12,9 +12,7 @@
  4. Fishing Rod
 
 <!--- IMAGE PREVIEW --->
-<div align="right">
  ![](https://media.discordapp.net/attachments/592939802014384141/603582975736807457/image0.png?width=376&height=473)
-</div>
 
 <!--- DOWNLOADS TABLE --->
  Version | Phar Download
