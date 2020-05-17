@@ -15,6 +15,6 @@
  Version | Phar Download
 ------------ | -------------
 1.0.0 | [Download](https://poggit.pmmp.io/r/63133/ProjectileHP_dev-1.phar)
-1.0.1 | [Download]
+1.0.1 | [Download](https://poggit.pmmp.io/r/87161/ProjectileHP_dev-14.phar)
 
  
