@@ -36,7 +36,7 @@ class Main extends PluginBase implements Listener {
 	
 	// —————————— Show Health and Play Sound on Projectile Hit! —————————— //
 	
-	public function onHit(EntityDamageEvent $event){
+	public function onHit(EntityDamageByEntityEvent $event){
 	 if ($event->getCause() === EntityDamageByEntityEvent::CAUSE_PROJECTILE){
 			$player = $event->getDamager();
 			$level = $player->getLevel();
